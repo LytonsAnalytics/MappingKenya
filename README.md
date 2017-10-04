@@ -66,3 +66,4 @@ ken1$NAME_1
 col <- rep(c("green","red","black", "orange"), 47)
 col[36] <- "purple"
 plot(ken1, col = col, border = 'blue')
+title(main = "Simple Map of Africa")
